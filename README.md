@@ -1,5 +1,5 @@
-## Vagrant setup with Laraval 5.1
-This is Vagrant box for the laraval configurations. This laraval application is runing on top of Apache application server
+## Vagrant setup with Laravel 5.1
+This is Vagrant box for the laravel configurations. This laravel application is runing on top of Apache application server
 
 ##Components 
 * Composer - INSTALLED
