@@ -1,7 +1,7 @@
-# Vagrant Setup for Laraval 5.1
+## Vagrant setup with Laraval 5.1
 This is Vagrant box for the laraval configurations. This laraval application is runing on top of Apache application server
 
-#Components 
+##Components 
 * Composer - INSTALLED
 * MySql 5.6  - INSTALLED
 * bower - INSTALLED
@@ -11,7 +11,7 @@ This is Vagrant box for the laraval configurations. This laraval application is 
 
 
 
-#Seteps
+## Seteps
 
 Before vagrant up
 ------------------
